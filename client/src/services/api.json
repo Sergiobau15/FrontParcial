@@ -1,0 +1,879 @@
+{
+  "users": [
+    {
+      "id": "1f5f",
+      "Nombres": "Jeisson",
+      "Apellidos": "Rojas Palacios",
+      "Correo": "jdrojas7000@misena.edu.co",
+      "Contrasena": "Hola2006",
+      "Telefono": "3236146958",
+      "Direccion": "Calle 133 # 43 - M",
+      "Genero": "masculino",
+      "Rol": "Administrador"
+    },
+    {
+      "id": "e432",
+      "Nombres": "Pepe",
+      "Apellidos": "Perez Paez",
+      "Correo": "pepe@gmail.com",
+      "Contrasena": "as",
+      "Telefono": "3123434234",
+      "Direccion": "Calle 133 # 43",
+      "Genero": "masculino",
+      "Rol": "Administrador"
+    },
+    {
+      "id": "0df9",
+      "Nombres": "Lizeth",
+      "Apellidos": "Castro",
+      "Correo": "lizydiaz@gmail.co",
+      "Contrasena": "Sergio",
+      "Telefono": "31229367489",
+      "Direccion": "Calle 133 # 43",
+      "Genero": "femenino",
+      "Rol": "Almacenista"
+    },
+    {
+      "id": "c6fb",
+      "Nombres": "Mateo",
+      "Apellidos": "Perez",
+      "Correo": "mat@gmail.com",
+      "Contrasena": "sergio",
+      "Telefono": "3122933688",
+      "Direccion": "calle 4 56",
+      "Genero": "masculino",
+      "Rol": "Cajero"
+    },
+    {
+      "id": "ba08",
+      "Nombres": "Jav Karol",
+      "Apellidos": "Garcia",
+      "Correo": "javykarol@amoreterno.com",
+      "Contrasena": "JavierKarol123",
+      "Telefono": "3125049832",
+      "Direccion": "Calle 133 # 43",
+      "Genero": "masculino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "7e41",
+      "Nombres": "jerson",
+      "Apellidos": "jimenez",
+      "Correo": "j@gmail.com",
+      "Contrasena": "jerson123",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "Genero": "masculino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "9f48",
+      "Nombres": "david",
+      "Apellidos": "rojas",
+      "Correo": "d@gmail.com",
+      "Contrasena": "12345678l",
+      "Telefono": "1212128990",
+      "Direccion": "calle 45",
+      "Genero": "femenino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "c20c",
+      "Nombres": "sergio",
+      "Apellidos": "ramirez",
+      "Correo": "se@gmail.com",
+      "Contrasena": "laura123",
+      "Telefono": "31229367489",
+      "Direccion": "calle 90",
+      "Genero": "masculino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "6d9a",
+      "Nombres": "Valentina",
+      "Apellidos": "Rojas",
+      "Correo": "valenmunoz@gmail.com",
+      "Contrasena": "Hola2006*",
+      "Telefono": "3122933688",
+      "Direccion": "Calle 133 No 32 - 3",
+      "Genero": "femenino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "cf8f",
+      "Nombres": "jerson",
+      "Apellidos": "jimenez",
+      "Correo": "karol@gmail.com",
+      "Contrasena": "Jerson123*",
+      "Telefono": "3003855585",
+      "Direccion": "Calle 133 No 32 - 3",
+      "Genero": "masculino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "3969",
+      "Nombres": "Leidy",
+      "Apellidos": "Castro",
+      "Correo": "leidycliente@gmail.com",
+      "Contrasena": "Leidy123?",
+      "Telefono": "3142896584",
+      "Direccion": "Calle 44 n 24 sur",
+      "Genero": "femenino",
+      "Rol": "Cliente"
+    },
+    {
+      "id": "8aa7",
+      "Nombres": "maleja",
+      "Apellidos": "rincon",
+      "Correo": "male@gmail.com",
+      "Contrasena": "Hola2006*",
+      "Telefono": "3003908121",
+      "Direccion": "Av caracas 12",
+      "Genero": "masculino",
+      "Rol": "Cliente"
+    }
+  ],
+  "products": [
+    {
+      "id": "5fc3",
+      "nombre": "Martillo ",
+      "cantidad": 4,
+      "precio": "16000",
+      "descripcion": "Martillo de hierro con base de plastico",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqoGBEOqgXsUMKLqOU6LbAwozxgVgryTEXg&s",
+      "categoria": "Herramientas manuales",
+      "activo": true
+    },
+    {
+      "id": "b68e",
+      "nombre": "Bombilla led 804",
+      "cantidad": 15,
+      "precio": 5000,
+      "descripcion": "Consumo equivalente 60 W",
+      "imagen": "https://ecolite.com.co/wp-content/uploads/2023/04/LBA6012W_1.jpg",
+      "categoria": "Iluminacion y electricidad",
+      "activo": true
+    },
+    {
+      "id": "a879",
+      "nombre": "Pintura Blanca",
+      "cantidad": 35,
+      "precio": "25000",
+      "descripcion": "Tito pabon 4litros vinilo plu",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstgCwsDHZ6EHAwbYq3Yru-Q5IfZdvFmQVFA&s",
+      "categoria": "Pinturas",
+      "activo": true
+    },
+    {
+      "id": "d962",
+      "nombre": "Cinta metrica",
+      "cantidad": 526,
+      "precio": "7000",
+      "descripcion": "Mediciones de hasta 8 metros",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd2EmT2OxtYYXv9Fd66RXk-Y1vcWnnZiNmdg&s",
+      "categoria": "Jardineria y exteriores"
+    },
+    {
+      "id": "be30",
+      "nombre": "Tijeras para podar",
+      "cantidad": 48,
+      "precio": 35000,
+      "descripcion": "Buenas tijerones",
+      "imagen": "https://materialesdeferreteria.com/wp-content/uploads/2024/06/TB-17.jpg",
+      "categoria": "Jardineria y exteriores"
+    },
+    {
+      "id": "8627",
+      "nombre": "Tornillos x6",
+      "cantidad": 143,
+      "precio": 5000,
+      "descripcion": "Pack 6 tornillos metal fino",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxPB-YJIf3SW-HVvhxF9kPfEuixFJJ9bjgg&s",
+      "categoria": "Materiales de construcción"
+    },
+    {
+      "id": "cdce",
+      "nombre": "Guantes de proteccion",
+      "cantidad": 90,
+      "precio": 12000,
+      "descripcion": "Resistentes al fuego",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk-Bn-jTjgSKHuSyTuC7Td4BlvBkrsJHeNNA&s",
+      "categoria": "Herramientas manuales"
+    },
+    {
+      "id": "0145",
+      "nombre": "Pintura Negra",
+      "cantidad": 902,
+      "precio": 16000,
+      "descripcion": "Acrilica 200ml",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvQByTjTw_qGnNy4lX0VhgIc9JfsqhRRu1rg&s",
+      "categoria": "Pinturas"
+    },
+    {
+      "id": "d0c6",
+      "nombre": "Atornillador inalambrico",
+      "cantidad": 200,
+      "precio": 99000,
+      "descripcion": "3.6V Truper",
+      "imagen": "https://ferreteriaya.com.co/wp-content/uploads/2020/05/17033-300x300.png",
+      "categoria": "Herramientas manuales"
+    },
+    {
+      "id": "d668",
+      "nombre": "Linterna Led ",
+      "cantidad": 425,
+      "precio": 129000,
+      "descripcion": "Recargable",
+      "imagen": "https://ferreteriaya.com.co/wp-content/uploads/2019/09/Lampara-led-recargable-300lm-Pretul-12983-Linterna-Ferreteria-Ya-Herramienta-300x300.png",
+      "categoria": "Electricidad"
+    },
+    {
+      "id": "7e31",
+      "nombre": "Rodillo",
+      "cantidad": 240,
+      "precio": 34000,
+      "descripcion": "Espuma 3 pulgadas",
+      "imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/51087_1/w=200,h=200,f=webp,fit=contain,q=85",
+      "categoria": "Pinturas"
+    },
+    {
+      "id": "405f",
+      "nombre": "Cinta de enmascarar azul",
+      "cantidad": 67,
+      "precio": 8000,
+      "descripcion": "24mm x 40mt unidad",
+      "imagen": "https://imagedelivery.net/4fYuQyy-r8_rpBpcY7lH_A/sodimacCO/736043_02/w=200,h=200,f=webp,fit=contain,q=85",
+      "categoria": "Herramientas manuales"
+    },
+    {
+      "id": "b034",
+      "nombre": "Pintura rosadasd",
+      "cantidad": 26,
+      "precio": "5000",
+      "descripcion": "Ejemplo de pintura",
+      "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgIvcul9EwCVWYJuupMJKSTGepIgnL3MzZLg&s",
+      "categoria": "Pinturas"
+    }
+  ],
+  "pedido": [
+    {
+      "id": "fc61",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "8627",
+          "nombre": "Tornillos x6",
+          "precio": 5000,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 11900,
+      "orderDate": "19/9/2024, 2:42:57",
+      "status": "activo",
+      "num": "3143656024",
+      "adress": "calle 98"
+    },
+    {
+      "id": "c7c5",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "749b",
+          "nombre": "Llave inglesa",
+          "precio": 4500,
+          "quantityToAdd": 3
+        }
+      ],
+      "totalPrice": 16065,
+      "orderDate": "19/9/2024, 9:32:21",
+      "status": "activo",
+      "adress": "calle 90",
+      "num": "1212121212"
+    },
+    {
+      "id": "1c8e",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 5
+        }
+      ],
+      "totalPrice": 148750,
+      "orderDate": "19/9/2024, 9:46:48",
+      "status": "activo"
+    },
+    {
+      "id": "bf53",
+      "Nombres": "sergio",
+      "Telefono": "1234567899",
+      "Direccion": "calle 90",
+      "userId": "c20c",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "749b",
+          "nombre": "Llave inglesa",
+          "precio": 4500,
+          "quantityToAdd": 5
+        },
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 5
+        }
+      ],
+      "totalPrice": 175525,
+      "orderDate": "19/9/2024, 11:49:24",
+      "status": "activo"
+    },
+    {
+      "id": "dd78",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 4
+        }
+      ],
+      "totalPrice": 119000,
+      "orderDate": "19/9/2024, 14:46:58",
+      "status": "activo"
+    },
+    {
+      "id": "0b8f",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "749b",
+          "nombre": "Llave inglesa",
+          "precio": 4500,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 10710,
+      "orderDate": "19/9/2024, 14:47:55",
+      "status": "activo"
+    },
+    {
+      "id": "1726857826707",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "",
+      "products": [
+        {
+          "id": "749b",
+          "nombre": "Llave inglesa",
+          "precio": 4500,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 10710,
+      "orderDate": "20/9/2024, 13:43:46",
+      "status": "activo"
+    },
+    {
+      "id": "1726858280084",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "",
+      "products": [
+        {
+          "id": "749b",
+          "nombre": "Llave inglesa",
+          "precio": 4500,
+          "quantityToAdd": 3
+        }
+      ],
+      "totalPrice": 16065,
+      "orderDate": "20/9/2024, 13:51:20",
+      "status": "activo"
+    },
+    {
+      "id": "1726859192459",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 6
+        },
+        {
+          "id": "b68e",
+          "nombre": "Bombilla led 804",
+          "precio": 5000,
+          "quantityToAdd": 3
+        }
+      ],
+      "totalPrice": 196350,
+      "orderDate": "20/9/2024, 14:06:32",
+      "status": "activo"
+    },
+    {
+      "id": "1726859786836",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 1
+        }
+      ],
+      "totalPrice": 29750,
+      "orderDate": "20/9/2024, 14:16:26",
+      "status": "activo"
+    },
+    {
+      "id": "a992",
+      "Nombres": "laura de rojas",
+      "num": "3142675412",
+      "adress": "portal americas",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "b68e",
+          "nombre": "Bombilla led 804",
+          "precio": 5000,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 11900,
+      "orderDate": "23-09-2024 11:41",
+      "status": "activo"
+    },
+    {
+      "id": "1727112668670",
+      "Nombres": "Jav Karol",
+      "Telefono": "3123390190",
+      "Direccion": "Calle 133 # 43",
+      "userId": "ba08",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "8627",
+          "nombre": "Tornillos x6",
+          "precio": 5000,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 11900,
+      "orderDate": "23/9/2024, 12:31:08",
+      "status": "activo"
+    },
+    {
+      "id": "1727114020928",
+      "Nombres": "Jav Karol",
+      "Telefono": "3125049832",
+      "Direccion": "Calle 133 # 43",
+      "userId": "ba08",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "d962",
+          "nombre": "Cinta metrica",
+          "precio": "7000",
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 16660,
+      "orderDate": "23/9/2024, 12:53:40",
+      "status": "activo"
+    },
+    {
+      "id": "1729199272836",
+      "Nombres": "Leidy",
+      "Telefono": "3142896584",
+      "Direccion": "Calle 44 n 24 sur",
+      "userId": "3969",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 59500,
+      "orderDate": "17/10/2024, 4:07:52 p. m.",
+      "status": "activo"
+    },
+    {
+      "id": "1729200015027",
+      "Nombres": "jerson",
+      "Telefono": "3003855585",
+      "Direccion": "calle 666",
+      "userId": "7e41",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 3
+        }
+      ],
+      "totalPrice": 89250,
+      "orderDate": "17/10/2024, 4:20:15 p. m.",
+      "status": "activo"
+    },
+    {
+      "id": "76ce",
+      "Nombres": "jerson",
+      "num": "30039874",
+      "adress": "calle 200",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "b68e",
+          "nombre": "Bombilla led 804",
+          "precio": 5000,
+          "quantityToAdd": 3
+        }
+      ],
+      "totalPrice": 17850,
+      "orderDate": "17-10-2024 16:21",
+      "status": "activo"
+    },
+    {
+      "id": "e89f",
+      "Nombres": "Valentina",
+      "num": "3003871232",
+      "adress": "calle 200",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "be30",
+          "nombre": "Tijeras para podar",
+          "precio": 35000,
+          "quantityToAdd": 2
+        },
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "precio": "16000",
+          "quantityToAdd": 2
+        },
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "precio": "25000",
+          "quantityToAdd": 18
+        }
+      ],
+      "totalPrice": 656880,
+      "orderDate": "17-10-2024 16:23",
+      "status": "activo"
+    },
+    {
+      "id": "b8a7",
+      "Nombres": "jei",
+      "num": "123123123",
+      "adress": "calle 90",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "precio": "16000",
+          "quantityToAdd": 10
+        }
+      ],
+      "totalPrice": 190400,
+      "orderDate": "25-10-2024 16:30",
+      "status": "activo"
+    },
+    {
+      "id": "1729892518259",
+      "Nombres": "maleja",
+      "Telefono": "3003908121",
+      "Direccion": "Av caracas 12",
+      "userId": "8aa7",
+      "paymentMethod": "tarjeta",
+      "products": [
+        {
+          "id": "b68e",
+          "nombre": "Bombilla led 804",
+          "precio": 5000,
+          "quantityToAdd": 2
+        },
+        {
+          "id": "8627",
+          "nombre": "Tornillos x6",
+          "precio": 5000,
+          "quantityToAdd": 2
+        }
+      ],
+      "totalPrice": 23800,
+      "orderDate": "25/10/2024, 4:41:58 p. m.",
+      "status": "activo"
+    },
+    {
+      "id": "a93c",
+      "Nombres": "jei",
+      "num": "12312312312",
+      "adress": "calle 90",
+      "paymentMethod": "efectivo",
+      "products": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "precio": "16000",
+          "quantityToAdd": 1
+        }
+      ],
+      "totalPrice": 19040,
+      "orderDate": "25-10-2024 17:05",
+      "status": "activo"
+    }
+  ],
+  "venta": [
+    {
+      "id": "e400",
+      "fechaHora": "10-09-2024 22:00",
+      "descuento": 0,
+      "subtotal": 112500,
+      "iva": 21375,
+      "total": 133875,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "6b3c",
+          "nombre": "Maceta",
+          "cantidad": 25,
+          "precio": 4500,
+          "descripcion": "Base Con Ruedas 2x2 ",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmmdUfAiK3NxKeiTqFGvvH-_QxC8yreG97Q&s",
+          "categoria": "Jardineria y exteriores",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "6599",
+      "fechaHora": "10-09-2024 22:13",
+      "descuento": 0,
+      "subtotal": 135000,
+      "iva": 25650,
+      "total": 160650,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "6b3c",
+          "nombre": "Maceta",
+          "cantidad": 30,
+          "precio": 4500,
+          "descripcion": "Base Con Ruedas 2x2 ",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmmdUfAiK3NxKeiTqFGvvH-_QxC8yreG97Q&s",
+          "categoria": "Jardineria y exteriores",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "4568",
+      "fechaHora": "10-09-2024 22:13",
+      "descuento": 0,
+      "subtotal": 54000,
+      "iva": 10260,
+      "total": 64260,
+      "metodoPago": "Efectivo",
+      "productos": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo Grande",
+          "cantidad": 12,
+          "precio": 4500,
+          "descripcion": "Hola niños",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqoGBEOqgXsUMKLqOU6LbAwozxgVgryTEXg&s",
+          "categoria": "Herramientas manuales",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "c479",
+      "fechaHora": "19-09-2024 01:32",
+      "descuento": 25000,
+      "subtotal": 99000,
+      "iva": 18810,
+      "total": 92810,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "6b3c",
+          "nombre": "Maceta",
+          "cantidad": 22,
+          "precio": 4500,
+          "descripcion": "Base Con Ruedas 2x2 ",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUmmdUfAiK3NxKeiTqFGvvH-_QxC8yreG97Q&s",
+          "categoria": "Jardineria y exteriores",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "5157",
+      "fechaHora": "19-09-2024 02:40",
+      "descuento": 2000,
+      "subtotal": 35000,
+      "iva": 6650,
+      "total": 39650,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "d962",
+          "nombre": "Cinta metrica",
+          "cantidad": 5,
+          "precio": "7000",
+          "descripcion": "Mediciones de hasta 5 metros",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd2EmT2OxtYYXv9Fd66RXk-Y1vcWnnZiNmdg&s",
+          "categoria": "Jardineria y exteriores"
+        }
+      ]
+    },
+    {
+      "id": "4b28",
+      "fechaHora": "21-09-2024 20:44",
+      "descuento": 0,
+      "subtotal": 100000,
+      "iva": 19000,
+      "total": 119000,
+      "metodoPago": "Efectivo",
+      "productos": [
+        {
+          "id": "a879",
+          "nombre": "Pintura Blanca",
+          "cantidad": 4,
+          "precio": "25000",
+          "descripcion": "Tito pabon 4litros vinilo plus",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSstgCwsDHZ6EHAwbYq3Yru-Q5IfZdvFmQVFA&s",
+          "categoria": "Pinturas",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "a4c4",
+      "fechaHora": "21-09-2024 22:41",
+      "descuento": 0,
+      "subtotal": 0,
+      "iva": 0,
+      "total": 0,
+      "metodoPago": "Tarjeta",
+      "productos": []
+    },
+    {
+      "id": "029d",
+      "fechaHora": "21-09-2024 22:43",
+      "descuento": 0,
+      "subtotal": 0,
+      "iva": 0,
+      "total": 0,
+      "metodoPago": "Tarjeta",
+      "productos": []
+    },
+    {
+      "id": "77a7",
+      "fechaHora": "21-09-2024 22:49",
+      "descuento": 0,
+      "subtotal": 16000,
+      "iva": 3040,
+      "total": 19040,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "cantidad": 1,
+          "precio": "16000",
+          "descripcion": "Martillo de hierro con base de plastico",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqoGBEOqgXsUMKLqOU6LbAwozxgVgryTEXg&s",
+          "categoria": "Herramientas manuales",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "6a02",
+      "fechaHora": "21-09-2024 22:49",
+      "descuento": 0,
+      "subtotal": 64000,
+      "iva": 12160,
+      "total": 76160,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "cantidad": 4,
+          "precio": "16000",
+          "descripcion": "Martillo de hierro con base de plastico",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqoGBEOqgXsUMKLqOU6LbAwozxgVgryTEXg&s",
+          "categoria": "Herramientas manuales",
+          "activo": true
+        }
+      ]
+    },
+    {
+      "id": "fe0d",
+      "fechaHora": "25-10-2024 16:43",
+      "descuento": 0,
+      "subtotal": 80000,
+      "iva": 15200,
+      "total": 95200,
+      "metodoPago": "Tarjeta",
+      "productos": [
+        {
+          "id": "5fc3",
+          "nombre": "Martillo ",
+          "cantidad": 5,
+          "precio": "16000",
+          "descripcion": "Martillo de hierro con base de plastico",
+          "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyqoGBEOqgXsUMKLqOU6LbAwozxgVgryTEXg&s",
+          "categoria": "Herramientas manuales",
+          "activo": true
+        }
+      ]
+    }
+  ]
+}
